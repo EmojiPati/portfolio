@@ -41,8 +41,7 @@ const Home: React.FC = () => {
               1000,
               'Thank you for visiting!',
               1000,
-              'Im always open to suggestions.',
-              1000,
+              'I am always open to suggestions.',
             ]}
             loop={Infinity}
             wrapper="h3"

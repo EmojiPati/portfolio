@@ -19,7 +19,7 @@ export default function Meta(iprops: Partial<Props>) {
 
   props.themeColor = iprops.themeColor || '#00ffff';
 
-  props.title = iprops.title ? `${iprops.title} | EmojiPati` : 'KyuuChan';
+  props.title = iprops.title ? `${iprops.title} | EmojiPati` : 'EmojiPati';
 
   props.description =
     iprops.description ??

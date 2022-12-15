@@ -1,7 +1,7 @@
 # My Portfolio Website 
 
 
-## 🔗 Live at https://zerosync.tech
+## 🔗 Live at https://emojipati.xyz
 ## Languages and Libraries used 
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://www.javascript.com/)

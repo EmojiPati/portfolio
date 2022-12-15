@@ -41,7 +41,7 @@ const Home: React.FC = () => {
               1000,
               'Thank you for visiting!',
               1000,
-              'I\'m always open to suggestions.',
+              'Im always open to suggestions.',
               1000,
             ]}
             loop={Infinity}

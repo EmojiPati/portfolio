@@ -26,6 +26,8 @@
     opacity: 1;
   }
 }
+div {
+    cursor:none;}
 
 .name {
   text-align: center;

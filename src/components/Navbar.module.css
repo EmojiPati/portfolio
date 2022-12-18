@@ -1,6 +1,7 @@
 .nav {
   height: 50px;
   max-width: 100%;
+  cursor: none;
   background-color: var(--bg-accent);
   animation: Nav 100ms ease-out;
 }

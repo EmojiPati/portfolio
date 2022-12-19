@@ -74,7 +74,7 @@ const Contact: React.FC = () => {
         <Card
           title="Twitter"
           value="Click Me!"
-          href="https://twitter.com/SOON_AS_POSSİBLE"
+          href="https://twitter.com/EmojiPati"
         />
       </div>
     </Content>

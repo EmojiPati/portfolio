@@ -13,7 +13,7 @@ const Home: React.FC = () => {
       <Meta />
       <Particles particles={['0', '1']} />
       <div className={styles['center']}>
-        <img src="photo.webp" alt="zero" className={styles['photo']} />
+        <img src="photo1.webp" alt="zero" className={styles['photo']} />
       </div>
       <div className={styles['center']}>
         <h1 className={styles['name']}>

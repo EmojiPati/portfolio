@@ -47,7 +47,7 @@ const Home: React.FC = () => {
             wrapper="h3"
           />
           <br />
-          Making Integrated WebApplications, Bots, Software! #OpenSource💖.
+          I love developing integrated web applications, AI chat systems and docker images! #OpenSource💖.
           <br></br>はじめまして!!
           <br></br>
           <br></br>
